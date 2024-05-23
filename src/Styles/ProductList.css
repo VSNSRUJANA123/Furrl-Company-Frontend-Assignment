@@ -1,0 +1,35 @@
+.bg-pic {
+  background-image: url(https://cdn.furrl.in/vibes/VibeCard_HomeHunts.jpg);
+  height: 45vh;
+  background-size: cover;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding-bottom: 10px;
+  font-family: Montserrat, sans-serif;
+}
+.loader {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.productItemContainer {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: center;
+  padding: 10px;
+}
+.Productitle {
+  text-align: center;
+  padding: 10px;
+  color: #007aff;
+}
+@media (max-width: 768px) {
+  .bg-pic {
+    height: 25vh;
+    background-size: cover;
+  }
+}

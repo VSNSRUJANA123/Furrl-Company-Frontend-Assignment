@@ -1,0 +1,11 @@
+.wishlist {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.wishlist h2 {
+  padding: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
