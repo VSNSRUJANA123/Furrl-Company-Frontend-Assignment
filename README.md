@@ -74,7 +74,8 @@ npm run build
 ```
 Follow the deployment instructions for your chosen platform.
 
-Contributing
+## Contributing
+
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 License
