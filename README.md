@@ -10,11 +10,7 @@ Furrl HomeHunts is a React-based web application designed to showcase a list of 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
-- [Styling](#styling)
-- [Testing and Debugging](#testing-and-debugging)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
