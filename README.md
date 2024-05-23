@@ -67,19 +67,6 @@ General user interactions.
 Deployment
 To deploy the application, you can use platforms like Vercel or Netlify which support React applications natively.
 
-## Build the application:
-
-```bash
-npm run build
-```
-Follow the deployment instructions for your chosen platform.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Project Structure
 
@@ -111,5 +98,18 @@ furrl-homehunts/
 ├── README.md
 └── package.json
 
+```
 
+## Build the application:
 
+```bash
+npm run build
+```
+Follow the deployment instructions for your chosen platform.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
